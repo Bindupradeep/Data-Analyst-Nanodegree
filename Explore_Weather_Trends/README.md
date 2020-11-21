@@ -1,4 +1,4 @@
-#P1: Explore Weather Trends
+# P1: Explore Weather Trends
 
 **Summary**
 
