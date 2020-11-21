@@ -1,23 +1,9 @@
-**Data-Analyst-Nanodegree**
+**P1: Explore Weather Trends**
 
-Udacity's Data Analyst Nanodegree program.
+**Summary**
 
-Discover insights and information from data using SQL and Python
+In this project, you will analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 
-**Prerequisites**
-
-Installation
--  Python (3.x or higher)
-- Anaconda
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
-
-**Project Overview**
-
-- *P1: Explore Weather Trends*
-- *P2: Investigate a Dataset*
-- *P3: Analyze A/B Test Results*
-- *P4: Wrangle and Analyze Data*
-- *P5: Communicate Data Findings*
+- Extracting the temperature data for the world as well as for the closest big city to where you live from the Udacity platform
+- Creating a line chart that compares city’s temperatures with the global temperatures. Plotting the moving average in order to smooth out the lines, making trends more observable.
+- Making observations about the similarities and differences between the world averages and city’s averages, as well as overall trends.. 
